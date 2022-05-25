@@ -1,3 +1,3 @@
 output "PUBLIC_ALB_ARN" {
-  value =
+  value = module.alb-pubic
 }
